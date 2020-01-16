@@ -4,7 +4,10 @@ Free proxy list UPDATED HOURLY!
 
 <br>
 <br>
-![proxy-list](https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/proxy.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/proxy.png"  title="proxy-list">
+</p>
+![proxy-list]()
 
 ### Download
 ```bash
