@@ -175,7 +175,7 @@ curl -sSf "https://raw.githubusercontent.com/shiftytr/proxy-list/master/proxy.tx
 
 ##### Sample usage
 
-<span style="font-size: 15px;">[https://www.proxyscan.io/api/proxy?last_check=3800&country=fr,us&uptime=50&ping=100limit=10&type=http,https](https://www.proxyscan.io/api/proxy?last_check=3800&country=fr,us&uptime=50&ping=100&limit=10&type=http,https)</span></div>
+<span style="font-size: 15px;">[https://www.proxyscan.io/api/proxy?last_check=3800&country=fr,us&uptime=50&ping=100limit=10&type=socks4,socks5](https://www.proxyscan.io/api/proxy?last_check=3800&country=fr,us&uptime=50&ping=100&limit=10&type=socks4,socks5)</span></div>
 
 </div>
 
